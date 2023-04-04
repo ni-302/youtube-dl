@@ -1,5 +1,5 @@
-#
-ni-302 updateed youtube-dl for new YouTube channel URL system.
+ni-302 updateed youtube-dl for new YouTube channel URL system.<br>
+Please use `pip install git+https://github.com/ni-302/youtube-dl-can-use-in-2023` if you want use this.
 # 
 
 [![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI)
